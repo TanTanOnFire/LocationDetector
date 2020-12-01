@@ -2,7 +2,7 @@
 
 The purpose of this project is finding the location of a photo based on the most similar photo in the training dataset.
 
-The dataset is available [here].(https://drive.google.com/drive/folders/1Xxv-4sDt_BlymaA4FJ9crrII554x5TJc?usp=sharing)
+The dataset is available [here](https://drive.google.com/drive/folders/1Xxv-4sDt_BlymaA4FJ9crrII554x5TJc?usp=sharing).
 
 Download the dataset and sample test data. In the name of each training photo, the Latitude and longitude of the photo is written.
 
